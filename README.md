@@ -1,4 +1,4 @@
-# python3 -- Weather Application using API 
+# python3 - Weather using API 
 
 # importing the libraries 
 from tkinter import *
